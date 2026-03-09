@@ -1,6 +1,6 @@
 HOW TO RUN?
 
-TASK_2
+TASK_1
 """ Create a Dictionary of Student Marks """
 
 
