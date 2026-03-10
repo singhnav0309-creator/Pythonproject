@@ -1,7 +1,7 @@
                                           HOW TO RUN?
 
 #TASK_1
-""" Create a Dictionary of Student Marks """
+ Create a Dictionary of Student Marks.
 
 # Create a Dictionary that includes student names as keys and marks are value.
 Students = {'Alice': 85, 'Elly': 60, 'Navi': 90}
@@ -28,10 +28,8 @@ else:
     it shows (Student not found.)
 
 
-
-
 #TASK_2
- """ Demonstrate List Slicing """
+  Demonstrate List Slicing
 
 # Create a list of numbers from 1 to 10.
 numbers = list(range(1, 11))
