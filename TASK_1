@@ -6,6 +6,5 @@ name = (input("Enter the student's name: "))
 
 if name in Students:
     print(f"{name}'s marks: {Students[name]} ")
-
 else:
     print("Student not found.")
