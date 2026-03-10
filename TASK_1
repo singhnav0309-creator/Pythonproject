@@ -1,15 +1,11 @@
 """ Create a Dictionary of Student Marks """
 
-# Create a Dictionary that includes student names as keys and marks are value.
 Students = {'Alice': 85, 'Elly': 60, 'Navi': 90}
 
-# User give a input for student's name
 name = (input("Enter the student's name: "))
 
-# retrieves and displays the corresponding marks.
 if name in Students:
     print(f"{name}'s marks: {Students[name]} ")
 
-# if student does not exist in Dictionary.
 else:
-    print("Student not found")
+    print("Student not found.")
