@@ -49,8 +49,8 @@ reversed_list = first_five[::-1]
 # prints reversed list elements
 print(f"Reversed extracted elements: {reversed_list}")
 
-For Example, original list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-Extracted first five elements = [1, 2, 3, 4, 5]
-Reversed extracted elements = [5, 4, 3, 2, 1]
+    For Example, original list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    Extracted first five elements = [1, 2, 3, 4, 5]
+    Reversed extracted elements = [5, 4, 3, 2, 1]
 
 
