@@ -1,5 +1,3 @@
-                                          HOW TO RUN?
-
 #TASK_1
  Create a Dictionary of Student Marks.
 
@@ -27,6 +25,9 @@ else:
     For Example, John
     it shows (Student not found.)
 
+                                How to run?
+              We use if-else loop for this Task.
+
 
 #TASK_2
   Demonstrate List Slicing
@@ -52,5 +53,8 @@ print(f"Reversed extracted elements: {reversed_list}")
     For Example, original list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
     Extracted first five elements = [1, 2, 3, 4, 5]
     Reversed extracted elements = [5, 4, 3, 2, 1]
+
+                                  How to run?
+                            We use List slicing and reversing of list elements in this Task.
 
 
